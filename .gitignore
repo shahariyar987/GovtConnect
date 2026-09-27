@@ -1,0 +1,15 @@
+# Real database password (use config.example.php as the template)
+config.php
+
+# Files uploaded by users while the app runs
+problems/*
+!problems/.gitkeep
+profile_pics/*
+!profile_pics/.gitkeep
+uploads/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
